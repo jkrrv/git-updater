@@ -11,7 +11,7 @@
 * Requires at least: 5.2
 * Requires PHP: 5.6
 * Tested up to: trunk
-* Stable tag: [master](https://github.com/afragen/github-updater/releases/latest)
+* Stable tag: [master](https://github.com/jkrrv/github-updater/releases/latest)
 * Donate link: <https://thefragens.com/github-updater-donate>
 * License: GPLv2 or later
 * License URI: <https://www.gnu.org/licenses/gpl-2.0.html>
@@ -26,8 +26,8 @@ A simple plugin to enable automatic updates to your GitHub, Bitbucket, GitLab, o
 
 This plugin was designed to simply update any GitHub hosted WordPress plugin or theme. Your plugin or theme **must** contain a header in the style.css header or in the plugin's header denoting the location on GitHub. The format is as follows.
 
-    GitHub Plugin URI: afragen/github-updater
-    GitHub Plugin URI: https://github.com/afragen/github-updater
+    GitHub Plugin URI: jkrrv/github-updater
+    GitHub Plugin URI: https://github.com/jkrrv/github-updater
 
 or
 

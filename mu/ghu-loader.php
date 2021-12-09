@@ -4,19 +4,19 @@
  *
  * @author    Andy Fragen
  * @license   GPL-2.0+
- * @link      https://github.com/afragen/github-updater
+ * @link      https://github.com/jkrrv/github-updater
  * @package   github-updater
  */
 
 /**
  * Plugin Name:       GitHub Updater MU loader
- * Plugin URI:        https://github.com/afragen/github-updater
+ * Plugin URI:        https://github.com/jkrrv/github-updater
  * Description:       A plugin to load GitHub Updater as a must-use plugin. Disables normal plugin activation and deletion.
  * Version:           2.0.0
  * Author:            Andy Fragen
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
- * GitHub Plugin URI: https://github.com/afragen/github-updater/tree/develop/mu
+ * GitHub Plugin URI: https://github.com/jkrrv/github-updater/tree/develop/mu
  * Requires PHP:      5.6
  */
 

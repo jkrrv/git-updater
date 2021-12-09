@@ -15,8 +15,8 @@ This plugin was designed to simply update any GitHub hosted WordPress plugin or 
 
 Your plugin or theme **must** contain a header in the style.css header or in the plugin's header denoting the location on GitHub. The format is as follows.
 
-    GitHub Plugin URI: afragen/github-updater
-    GitHub Plugin URI: https://github.com/afragen/github-updater
+    GitHub Plugin URI: jkrrv/github-updater
+    GitHub Plugin URI: https://github.com/jkrrv/github-updater
 
 or
 
@@ -57,7 +57,7 @@ The following headers are available for use depending upon your hosting source.
 
 #### Wiki
 
-[Comprehensive information regarding GitHub Updater is available on the wiki.](https://github.com/afragen/github-updater/wiki)
+[Comprehensive information regarding GitHub Updater is available on the wiki.](https://github.com/jkrrv/github-updater/wiki)
 
 #### Slack
 

@@ -4,7 +4,7 @@
  *
  * @author    Andy Fragen
  * @license   GPL-2.0+
- * @link      https://github.com/afragen/github-updater
+ * @link      https://github.com/jkrrv/github-updater
  * @package   github-updater
  */
 
@@ -248,7 +248,7 @@ class Settings {
 		$logo = plugins_url( basename( constant( __NAMESPACE__ . '\DIR' ) ) . '/assets/GitHub_Updater_logo_small.png' ); ?>
 		<div class="wrap github-updater-settings">
 			<h1>
-				<a href="https://github.com/afragen/github-updater" target="_blank"><img src="<?php esc_attr_e( $logo ); ?>" alt="GitHub Updater logo" /></a><br>
+				<a href="https://github.com/jkrrv/github-updater" target="_blank"><img src="<?php esc_attr_e( $logo ); ?>" alt="GitHub Updater logo" /></a><br>
 				<?php esc_html_e( 'GitHub Updater', 'github-updater' ); ?>
 			</h1>
 			<?php $this->options_tabs(); ?>

@@ -4,7 +4,7 @@
  *
  * @author    Andy Fragen, Mikael Lindqvist
  * @license   GPL-2.0+
- * @link      https://github.com/afragen/github-updater
+ * @link      https://github.com/jkrrv/github-updater
  * @package   github-updater
  */
 
